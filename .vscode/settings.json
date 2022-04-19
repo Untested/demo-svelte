@@ -1,0 +1,18 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.detectIndentation": true,
+	"editor.formatOnSave": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"eslint.validate": ["html", "javascript", "svelte", "typescript"],
+	"git.enabled": true,
+	"git.autofetch": "all",
+	"git.autorefresh": true,
+	"git.ignoreLimitWarning": false,
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	}
+}
